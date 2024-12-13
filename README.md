@@ -1,0 +1,1 @@
+A music social media app where users are encouraged to share their music and disocver new songs. The user can create an account, like and comment on posts, and share Soundcloud, Youtube and Spotify links with each other.
